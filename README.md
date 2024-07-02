@@ -35,6 +35,7 @@ The project has the following structure:
     - `IMDbBorn40YearsAgo_spec.cy.js`
     - `IMDBTopBoxOffice_spec.cy.js`
     - `IMDBNicolasCage_spec.cy.js`
+  - 'fixtures/' 
   - `pageobject/`: Contains the page object classes.
     - `bornTodayPage.js`
     - `breakingBadPage.js`
@@ -42,5 +43,6 @@ The project has the following structure:
     - `homePage.js`
     - `nicolasCagePage.js`
   - `screenshots/`: Contains test screenshots.
+  - 'support'
 
 
